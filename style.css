@@ -1,0 +1,13 @@
+.calender-map {
+    font: 10px sans-serif;
+    shape-rendering: crispEdges;
+  }
+  .stroke {
+    stroke: #cc0066;
+    stroke-width: 1px;
+  }
+  .month {
+    fill: none;
+    stroke: #000;
+    stroke-width: 2px;
+  }
